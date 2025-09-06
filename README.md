@@ -1,3 +1,5 @@
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-orange)](https://sam-rtlprocess.streamlit.app/)
+
 # RTL Converter - Register Transfer Level Expression Converter
 
 A Python-based educational tool that converts simple arithmetic expressions into their Register Transfer Level (RTL) representation using Streamlit for the user interface.
